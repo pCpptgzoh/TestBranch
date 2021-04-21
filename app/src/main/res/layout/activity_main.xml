@@ -26,20 +26,4 @@
         android:layout_height="wrap_content"
         android:text="master 分支 修改1" />
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="dev 分支 修改1" />
-
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="dev 分支 修改2" />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="dev 分支 修改2" />
-
 </LinearLayout>
