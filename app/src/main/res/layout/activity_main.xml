@@ -19,6 +19,11 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="master 分支" />
+        android:text="dev 分支" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="dev 分支 修改1" />
 
 </LinearLayout>
